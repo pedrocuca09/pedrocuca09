@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://readme-stars-fork.vercel.app/api?username=pedrocuca09&private=true)
+![Anurag's GitHub stats](https://readme-stars-fork.vercel.app/api?username=pedrocuca09&private=true&show_icons=true&theme=radical)
+[![Top Langs](https://readme-stars-fork.vercel.app/api/top-langs/?username=pedrocuca09&private=true&show_icons)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocuca09/pedrocuca09/output/github-contribution-grid-snake-dark.svg">
