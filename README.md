@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### [Active social medias:](https://linktr.ee/pedrocuca09)
+### 👯 [Active social medias:](https://linktr.ee/pedrocuca09)
 
 [<img src="https://linktr.ee/og/image/pedrocuca09.jpg" alt="Sample Image" width="300" height="157">](https://linktr.ee/pedrocuca09)
 
