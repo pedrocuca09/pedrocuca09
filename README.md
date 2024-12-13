@@ -5,7 +5,7 @@
 [<img src="https://linktr.ee/og/image/pedrocuca09.jpg" alt="Sample Image" width="300" height="157">](https://linktr.ee/pedrocuca09)
 
 ### known languages
-[GML](https://gamemaker.io/) \
+[GML](https://gamemaker.io/) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKD_fSKGDt4RP-bGgAs-RUUX2bGEL0HqoBvwGwTtQQjVYaqnnosLRvZWF2GSXmKw1LHyM&usqp=CAU" alt="Sample Image" width="15" height="15">\
 [HAXE](https://github.com/HaxeFoundation/haxe/) [<img src="https://haxe.org/img/branding/haxe-logo-glyph.png" alt="Sample Image" width="15" height="15">](https://github.com/HaxeFoundation/haxe/)\
 [WREN](https://wren.io/) \
 [PYTHON](https://www.python.org/)
