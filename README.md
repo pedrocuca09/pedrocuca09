@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-# [Active social medias](https://linktr.ee/pedrocuca09)
+### [Active social medias:](https://linktr.ee/pedrocuca09)
 
 [<img src="https://linktr.ee/og/image/pedrocuca09.jpg" alt="Sample Image" width="300" height="157">](https://linktr.ee/pedrocuca09)
 
-### known languages
+### known languages:
 [GML](https://gamemaker.io/) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKD_fSKGDt4RP-bGgAs-RUUX2bGEL0HqoBvwGwTtQQjVYaqnnosLRvZWF2GSXmKw1LHyM&usqp=CAU" alt="Sample Image" width="20" height="20">\
 [HAXE](https://github.com/HaxeFoundation/haxe/) [<img src="https://haxe.org/img/branding/haxe-logo-glyph.png" alt="Sample Image" width="20" height="20">](https://github.com/HaxeFoundation/haxe/)\
 [WREN](https://wren.io/) <img src="https://avatars.githubusercontent.com/u/45213573?s=200&v=4" alt="Sample Image" width="20" height="20">\
 [PYTHON](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Sample Image" width="20" height="20">
-#### Trying to learn
+#### Trying to learn:
 [C#](https://dotnet.microsoft.com/languages/csharp) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="Sample Image" width="20" height="20">
 # Stats
 
