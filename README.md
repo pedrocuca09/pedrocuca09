@@ -1,40 +1,53 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my GitHub Profile!
 
-### 👯 [Active social medias:](https://linktr.ee/pedrocuca09)
+I'm **Pedro**, a passionate programmer always looking to learn and create cool projects. Check out my work and feel free to connect with me! 🚀
 
+---
+
+### 🌍 Connect with me:
 [<img src="https://linktr.ee/og/image/pedrocuca09.jpg" alt="Sample Image" width="300" height="157">](https://linktr.ee/pedrocuca09)
 
-### Languages:
-- 🧠 known languages
-	- [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKD_fSKGDt4RP-bGgAs-RUUX2bGEL0HqoBvwGwTtQQjVYaqnnosLRvZWF2GSXmKw1LHyM&usqp=CAU" alt="Sample Image" width="20" height="20">](https://gamemaker.io/) [GML](https://gamemaker.io/)
-	- [<img src="https://haxe.org/img/branding/haxe-logo-glyph.png" alt="Sample Image" width="20" height="20">](https://github.com/HaxeFoundation/haxe/) [HAXE](https://github.com/HaxeFoundation/haxe/)
-	- [<img src="https://avatars.githubusercontent.com/u/45213573?s=200&v=4" alt="Sample Image" width="20" height="20">](https://wren.io/) [WREN](https://wren.io/)
-	- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Sample Image" width="20" height="20">](https://www.python.org/) [PYTHON](https://www.python.org/)
-- 🌱 Trying to learn:
-	- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="Sample Image" width="20" height="20">](https://dotnet.microsoft.com/languages/csharp) [C#](https://dotnet.microsoft.com/languages/csharp)
-# 📊 Stats
+🔗 [**Click here for all my active social media links!**](https://linktr.ee/pedrocuca09)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://readme-stars-fork.vercel.app/api/top-langs/?username=pedrocuca09&private=true&show_icons)](https://linktr.ee/pedrocuca09)
+---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Pedro's GitHub stats](https://readme-stars-fork.vercel.app/api?username=pedrocuca09&private=true&show_icons=true&theme=radical)
+### 💻 Languages I Use:
+
+- 🧠 **Proficient in:**
+  - [![GML](https://img.shields.io/badge/GML-GameMaker-blue)](https://gamemaker.io/)
+  - [![Haxe](https://img.shields.io/badge/Haxe-Open%20Source-orange)](https://github.com/HaxeFoundation/haxe/)
+  - [![Wren](https://img.shields.io/badge/Wren-Lightweight-brightgreen)](https://wren.io/)
+  - [![Python](https://img.shields.io/badge/Python-Powerful-yellow)](https://www.python.org/)
+
+- 🌱 **Currently Learning:**
+  - [![C#](https://img.shields.io/badge/C%23-DotNet-purple)](https://dotnet.microsoft.com/languages/csharp)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/pedrocuca09">
+    <img src="https://readme-stars-fork.vercel.app/api/top-langs/?username=pedrocuca09&private=true&show_icons=true&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pedrocuca09">
+    <img src="https://readme-stars-fork.vercel.app/api?username=pedrocuca09&private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocuca09/pedrocuca09/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrocuca09/pedrocuca09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrocuca09/pedrocuca09/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/pedrocuca09/pedrocuca09/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-**pedrocuca09/pedrocuca09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for stopping by!** Feel free to check out my repositories and connect with me. Let's build something amazing! 🚀
